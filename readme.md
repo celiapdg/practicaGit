@@ -2,7 +2,7 @@
 
 para el clonado `git clone https://github.com/DavidBernalGonzalez/practicaGit.git`
 
-para cambiar el repositorio remoto `git remote set-url origin https://github.com/celiapdg/practicaGit`
+para cambiar el repositorio remoto `git remote set-url origin https://github.com/celiapdg/practicaGit`. Una alternativa habría sido hacer un Fork al inicio.
 
 creo una rama y directamente me muevo a ella en un solo comando: `git checkout -b nuevaRama`
 
